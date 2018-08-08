@@ -194,7 +194,7 @@ main {
   display: grid;
   grid-auto-flow: row;
   grid-area: auto;
-  justify-content: space-evenly;
+  justify-content: left;
   align-items: center;
   margin-top: 1rem; }
   .boxes input {
