@@ -192,6 +192,7 @@ main {
 
 .boxes {
   display: grid;
+  grid-auto-flow: row;
   grid-area: auto;
   justify-content: left;
   align-items: center;
